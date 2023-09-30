@@ -73,3 +73,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+![RUNOOB 图标](src/public/images/01ab4d9f-2b02-4342-8911-55331a1642c5.jpg)
